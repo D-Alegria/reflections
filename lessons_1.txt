@@ -1,0 +1,4 @@
+Version Control
+Commits are the basic building blocks of git 
+Each commit represents a checkpooint in time
+***FC -- to check the diff. versions gti 
